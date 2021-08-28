@@ -1,9 +1,14 @@
-### Hi there 👋
+# About
 
-<!--
-**javedsidq/javedsidq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I am Research Scholar and Data Scientist. I'm passionate about Artificial Intelligence, Deep Learning, Machine Learning, Computer Vision and Natural Language Processing. 
 
-Here are some ideas to get you started:
+
+I have previously worked in the fields of Signal and Thermal Image Processing, Non-stationary Thermal Imaging, Object Classification and Pattern Recognition. I have developed a feature extraction approach based on unsupervised/supervised learning i.e., Independent Component Analysis (ICA), Principal Component Analysis (PCA) and Artificial Neural Network (ANN) that identify the hidden abnormality and patterns inhibited inside the steel structure using thermal images. I also evaluated the 95% lower confidence score and 90% probability of detecting the abnormality/defects using for each methods. I have published the carried in 5 reputed international journal like in IEEE Sensor, Elsevier, and IET tha have recived 45 citations at google scholar. 
+
+🎓 I have completed PhD in Engineering Sciences on the topic "Non-Stationary Thermal Wave Imaging for Subsurface Defect Detection in Metals" from the Academy of Scientific and Innovative Research, AcSIR, under the supervision of Prof. H. K. Sardana, Chief Scientist at CSIR-CSIO Chandigarh and Dr. Ravibabu Mulaveesala, Associate Professor at IIT Delhi in 2021. I received my Masters in Advanced Instrumentation Engineering with a specialization in Machine Learning and Deep Learning from the AcSIR in 2016 and completed B.Tech in Electronics and Instrumentation Engineering from MJPRU Bareilly in 2013.  
+
+# Personal Profile
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
